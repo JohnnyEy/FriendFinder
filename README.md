@@ -10,10 +10,10 @@ User results will then be compared with those from other users.
 The app will then display the name and picture of the user with the most compatible match.
 
 Home Page
-![picture](Home.png)
+![picture](screenShots/Home.png)
 
 Survey Page
-![picture](Survey.png)
+![picture](screenShots/Survey.png)
 
 Result Match Page
-![picture](Results.png)
+![picture](screenShots/Results.png)
