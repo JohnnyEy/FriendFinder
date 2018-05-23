@@ -1,5 +1,5 @@
 {
-  "name": "FriendFinder",
+  "name": "app",
   "version": "1.0.0",
   "description": "Find compatible friends.",
   "main": "server.js",
